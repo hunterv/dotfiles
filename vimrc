@@ -1,5 +1,8 @@
 syntax enable
 
+set background=dark
+colorscheme base16-railscasts
+
 set incsearch
 set hlsearch
 nnoremap <leader><space> :nohlsearch<CR>
